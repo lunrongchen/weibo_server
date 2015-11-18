@@ -1,4 +1,4 @@
-1.配置好环境，以及运行mongdb，详细见《配置环境.md》
+1.配置好环境，以及运行mongdb，详细见《INSTALL.md》
 2.代码结构分析：
 【１】HandleMongodb.h,HandleMongodb.cpp封装了对mongodb的操作
 【２】HttpServer.h,HttpServer.cpp封装了服务器操作，处理客户端的请求
